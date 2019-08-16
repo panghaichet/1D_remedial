@@ -23,7 +23,8 @@ h1   {color: darkslateblue;}
 
 #mainheader
 {
-            	border: none;
+        color:#ff0000;    	
+	border: none;
             	position: static;
             	right: 0;
             	left: 0;
