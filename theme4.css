@@ -13,7 +13,7 @@ body
             	background-size: auto;
 	            	background-size:1290px 768px;
 }
-h1   {color: Red;}
+h1   {color: #ff0000;}
 
 
 #titlename
@@ -23,7 +23,7 @@ h1   {color: Red;}
 
 #mainheader
 {
-        color:Red;    	
+        color:#ff0000;    	
 	border: none;
             	position: static;
             	right: 0;
